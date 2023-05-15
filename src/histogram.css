@@ -1,0 +1,52 @@
+
+
+  .App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    background-color: #eb3d3d;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  div{
+    background-color: #e62416;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0c00b6;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+  }
+  
+  button:hover {
+    background-color: #2fd650; 
+  }
+  
+  .recharts-wrapper {
+    margin-top: 70px;
+    margin: 0 auto;
+    display: block;
+    background-color: #111010;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(104, 85, 85, 0.2);
+  }
+
+
+  
+  
+  
+  
